@@ -6,7 +6,7 @@ CSS3  :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_ci
 HTML5 :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle:  
 JS: :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: 
 
-React  :large_blue_circle: :large_blue_circle: :white_circle:  :white_circle: :white_circle:   
+React      :large_blue_circle: :large_blue_circle: :white_circle:  :white_circle: :white_circle:   
 Bootstrap :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: :white_circle:   
 jQuery :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: :white_circle:   
 
